@@ -3,7 +3,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/55_1600x900.png") no-repeat center center;
+  background: url("../images/bryllup-hjemmeside-d+j.jpg") no-repeat center center;
   background-size: cover;
   background-position: 70%;
   height: 100vh;
@@ -37,7 +37,7 @@ body {
 
 .ww-home-page:before {
   content: "";
-  background-color: rgba(245, 138, 119, 0.2);
+  background-color: rgba(245, 138, 119, 0.0);
   width: 100%;
   height: 100%;
   height: 100vh;
